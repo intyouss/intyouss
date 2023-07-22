@@ -10,4 +10,4 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intyouss&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=intyouss" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=intyouss" /> </div> -->
