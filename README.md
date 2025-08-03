@@ -10,6 +10,6 @@ Blog: https://intyouss.github.io
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=intyouss&hide_title=true&hide_border=true&show_icons=true&line_height=21" /> </div> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intyouss)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intyouss) -->
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=intyouss" /> </div> -->
